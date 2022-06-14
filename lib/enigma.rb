@@ -1,10 +1,11 @@
 require 'date'
 require './lib/enigma'
 
+
 class Enigma
 
   def encrypt(message, key, date)
-    
+
 
   end
 
